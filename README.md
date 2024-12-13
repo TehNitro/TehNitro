@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>🔭 I’m currently working on a Minecraft server called Nebula<br>📚 I'm currently learning Java</p>
+<p align="left">✨ Creating bugs since 2018<br>🔭 📚 I'm currently learning Java</p>
 
 ###
 
