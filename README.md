@@ -1,4 +1,4 @@
-<p align="left">Hey, my name is Teh and I'm a silly goober, from Denmark 🇩🇰</p>
+<p align="left">Hey, my name is Teh and I'm a silly goober from Denmark! 🇩🇰</p>
 
 ###
 
