@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Tinkering with chess engine shenanigans<br>📚 I'm currently learning Java</p>
+<p align="left">✨ Tinkering with chess engine shenanigans<br>📚 I'm currently learning Kotlin</p>
 
 ###
 
